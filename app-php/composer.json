@@ -1,0 +1,22 @@
+{
+    "name": "gbprod/app-php",
+    "require": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "AppPhp\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\AppPhp\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilles",
+            "email": "contact@gb-prod.fr"
+        }
+    ]
+}

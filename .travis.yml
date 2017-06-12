@@ -1,0 +1,12 @@
+
+sudo: required
+
+language: php
+php:
+    - '7.1'
+
+services:
+  - docker
+
+script:
+    - make test-unit

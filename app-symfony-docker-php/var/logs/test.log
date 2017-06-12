@@ -1,0 +1,6 @@
+[2017-06-04 19:02:56] request.INFO: Matched route "homepage". {"route":"homepage","route_parameters":{"_controller":"AppBundle\\Controller\\DefaultController::indexAction","_route":"homepage"},"request_uri":"http://localhost/","method":"GET"} []
+[2017-06-04 19:02:56] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+[2017-06-04 19:46:34] request.INFO: Matched route "homepage". {"route":"homepage","route_parameters":{"_controller":"AppBundle\\Controller\\DefaultController::indexAction","_route":"homepage"},"request_uri":"http://localhost/","method":"GET"} []
+[2017-06-04 19:46:34] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+[2017-06-04 19:46:54] request.INFO: Matched route "homepage". {"route":"homepage","route_parameters":{"_controller":"AppBundle\\Controller\\DefaultController::indexAction","_route":"homepage"},"request_uri":"http://localhost/","method":"GET"} []
+[2017-06-04 19:46:54] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
